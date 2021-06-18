@@ -5,8 +5,8 @@
 
 <p align="center">
 <a href="https://github.com/veraivaniuk/Team-project-Filmoteka"> 
-  <h2>Baby Yoda</h2>
-  <h3>project team Vanilla JS</h3>
+  <h2 align="center">Baby Yoda</h2>
+  <h3 align="center">project team Vanilla JS</h3>
 </a>
 </p>
 
